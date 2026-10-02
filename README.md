@@ -17,9 +17,9 @@
 | Difficulty | Solved |
 |:---:|:---:|
 | 🟢 Easy | **0** |
-| 🟡 Medium | **9** |
+| 🟡 Medium | **5** |
 | 🔴 Hard | **0** |
-| **Total** | **9** |
+| **Total** | **5** |
 
 ## 🛠️ Languages
 
