@@ -25,7 +25,7 @@
 
 | Language | Solutions |
 |:---:|:---:|
-| C | **9** |
+| C | **5** |
 
 ## 📂 Repository Structure
 
